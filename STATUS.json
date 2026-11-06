@@ -1,7 +1,7 @@
 {
   "episode": "03",
   "status": "ready",
-  "public": false,
+  "public": true,
   "promptStatus": "initial_prompt_sent_to_Claude_for_briefing_and_review; execution_in_Codex",
   "animationConfirmed": true,
   "runnableProjectIntegrated": true,
@@ -16,5 +16,6 @@
   "websitePending": [
     "Tutorial video ID, final duration and chapters, verified published audio languages"
   ],
-  "technicalQA": "qa/FINAL-QA.json"
+  "technicalQA": "qa/FINAL-QA.json",
+  "repository": "https://github.com/Aut0GPT/historia-animada-com-ia"
 }
