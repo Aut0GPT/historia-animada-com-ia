@@ -1,0 +1,2 @@
+# Preserve reviewed files byte for byte; QA includes source hashes.
+* -text

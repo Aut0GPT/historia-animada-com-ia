@@ -1,0 +1,259 @@
+{
+  "files": [
+    {
+      "path": "projeto/.gitignore",
+      "sha256": "3ed4447d3af836dda40105398494a0040f06d329d277481a75a8e521b8c476bf"
+    },
+    {
+      "path": "projeto/LICENSE",
+      "sha256": "32496e77c983003f1b56b9e7755054142b698b38f8c1e92451c40f951168d451"
+    },
+    {
+      "path": "projeto/LICENSE-MROMIDEV",
+      "sha256": "0c88b6c1afe23ba94a2326eb289868fa4bb24edfd6994ad0c6bb7f2f2ed517e2"
+    },
+    {
+      "path": "projeto/LOG-EXECUCAO.md",
+      "sha256": "deccf20c664add42ad20b8e91e9a6a280c816bcc4054cbd2e450bf2f42ca2c9c"
+    },
+    {
+      "path": "projeto/QA-RESUMO.md",
+      "sha256": "ec58f7ea5e6f7ae92bd416381885308d2c714f5264f3b9162b2df720d3d7331b"
+    },
+    {
+      "path": "projeto/README.md",
+      "sha256": "b02b8ae5c32decd9bd882fac5788731b7818e1a5a13a9300865e6bb8d4f9a771"
+    },
+    {
+      "path": "projeto/package-lock.json",
+      "sha256": "1c8b510a97556046bbde8e3dbf0341bd4802ba45d47885c232256fdc89c40b70"
+    },
+    {
+      "path": "projeto/package.json",
+      "sha256": "21a06f34e2089271b9628edf19379e61dde232a2df67b6961b4080749ecb1c3e"
+    },
+    {
+      "path": "projeto/prompt-exato.md",
+      "sha256": "5c0b1bf962c87751afac9bbf7bef8b907a30935d6f2118fd156dab4f33635050"
+    },
+    {
+      "path": "projeto/public/mix.mp3",
+      "sha256": "e1ed9009082539a20394833ffad15fca81e05ef5ceed9b7ddd411b36f8f04f8d"
+    },
+    {
+      "path": "projeto/requirements.txt",
+      "sha256": "738071c1d9633f276433ad6738de256d2bf0d22f66dc4bd3179012bebb63bdd1"
+    },
+    {
+      "path": "projeto/scripts/audio.py",
+      "sha256": "49e411e2ba811e88047742ac4eeaa772859375bc1149518611a85497cf044838"
+    },
+    {
+      "path": "projeto/scripts/render.mjs",
+      "sha256": "22bfa140d2628a0583fe8a693f73a72788ba965cd55516a50bfd5d007d3fc8ab"
+    },
+    {
+      "path": "projeto/scripts/stills.mjs",
+      "sha256": "7d81fc3fe5ac4c68db4030a78fc329785dbf1353279c602232a519d995d9d00b"
+    },
+    {
+      "path": "projeto/src/Alternatives.tsx",
+      "sha256": "6c81247e6669aa2a9c94089a9e08192c7324b2ae36caadf7a8816041b3919b3f"
+    },
+    {
+      "path": "projeto/src/Root.tsx",
+      "sha256": "fb86876dffd3aab98a0bebd10ee2a635985a5d8a05789e348922172d2a45de0d"
+    },
+    {
+      "path": "projeto/src/estilo.ts",
+      "sha256": "8de1300fbb2d10322b9e59ed8af9d4e6e5300c3b00fbeb61be15a1500da33204"
+    },
+    {
+      "path": "projeto/src/index.ts",
+      "sha256": "2e0e358282a1b998a65387c653b97c2bb2eb7aae94cf200fc0b8d919f7be73a6"
+    },
+    {
+      "path": "projeto/src/look/cardshade.ts",
+      "sha256": "b9dd6fbe552ebe93ea51f578460bed08b8b1582c1721c0a160e53aa0afaab4da"
+    },
+    {
+      "path": "projeto/src/look/grade.ts",
+      "sha256": "460b6deb3d08c9e5d0cbff1dd368ede3e59d05d841fbf6dcb0d582f30d70c13d"
+    },
+    {
+      "path": "projeto/src/look/ink.ts",
+      "sha256": "6dadbd41a11501d10d008eeaf9497ae74c267dc90cd073899813e40cfbfc31e1"
+    },
+    {
+      "path": "projeto/src/look/lensblur.ts",
+      "sha256": "74cd4ed67eb123fa3b482731e9539ca51af0158f386fa369f831cd7b82459af5"
+    },
+    {
+      "path": "projeto/src/look/lights.ts",
+      "sha256": "2d5fb50df74902b59fbe8121514afab13174b19100c902ce5621732c04bbd1bd"
+    },
+    {
+      "path": "projeto/src/look/paint.ts",
+      "sha256": "a01928e703951b6730354dd615e6f54326ab8e08b028ed2c96a5f68e67d445b2"
+    },
+    {
+      "path": "projeto/src/look/shade.ts",
+      "sha256": "7ba7d865a5acc4fb41ab61ba09340f340248616c3f73680abf40b9ff5f1b3d3d"
+    },
+    {
+      "path": "projeto/src/look/toon.ts",
+      "sha256": "9782ad66fce811dbeea40212d645c1594030069edc369f1aacc67c29b78202c1"
+    },
+    {
+      "path": "projeto/src/story.ts",
+      "sha256": "26fcc02a565f37458e16aa8512d5d3d351c9612ebf7262324ce774364f050043"
+    },
+    {
+      "path": "projeto/src/world.ts",
+      "sha256": "d0b78666946746cecd6db85007debf1a4bb657af9cf817ea7b17f156943eb7f7"
+    },
+    {
+      "path": "projeto/story.md",
+      "sha256": "05cb105d2243d0cbd5ec24b9ac4221eaa9a522a76f5a801cdc9ab57c61d6b992"
+    },
+    {
+      "path": "projeto/tsconfig.json",
+      "sha256": "da2ae98b755bc4b6d25c19ab39c3c1314a4bb3c35e40bb4c323781b28cc30fb5"
+    }
+  ],
+  "media": [
+    {
+      "file": "jardim-25d.mp4",
+      "bytes": 68162371,
+      "sha256": "842b75768e4fa8ca074ea23dbf8e544c447abd67e3b14070f7cb7e9077e4a375",
+      "duration": 52.0,
+      "video": {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "pix_fmt": "yuvj420p",
+        "nb_frames": "1560"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "duration": "52.000000"
+      },
+      "decode_errors": "",
+      "loudness": {
+        "input_i": "-17.05",
+        "input_tp": "-2.26",
+        "input_lra": "5.20",
+        "input_thresh": "-27.22",
+        "output_i": "-17.13",
+        "output_tp": "-2.32",
+        "output_lra": "5.60",
+        "output_thresh": "-27.25",
+        "normalization_type": "dynamic",
+        "target_offset": "0.13"
+      }
+    },
+    {
+      "file": "jardim-papel.mp4",
+      "bytes": 1372766,
+      "sha256": "ca5ce1eb0d82846ca2d8a558a418219b0504b6ead28c8ff1884ad64a30ba16ec",
+      "duration": 10.0,
+      "video": {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "pix_fmt": "yuvj420p",
+        "nb_frames": "300"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "duration": "10.000000"
+      },
+      "decode_errors": "",
+      "loudness": {
+        "input_i": "-18.25",
+        "input_tp": "-4.26",
+        "input_lra": "2.50",
+        "input_thresh": "-28.57",
+        "output_i": "-17.05",
+        "output_tp": "-2.00",
+        "output_lra": "2.10",
+        "output_thresh": "-27.10",
+        "normalization_type": "dynamic",
+        "target_offset": "0.05"
+      }
+    },
+    {
+      "file": "jardim-pixel.mp4",
+      "bytes": 609064,
+      "sha256": "66476b8481142bb7e8f8605d370b37c5815db614218a396a79731e08b68fbf4c",
+      "duration": 10.0,
+      "video": {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "pix_fmt": "yuvj420p",
+        "nb_frames": "300"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "duration": "10.000000"
+      },
+      "decode_errors": "",
+      "loudness": {
+        "input_i": "-18.25",
+        "input_tp": "-4.26",
+        "input_lra": "2.50",
+        "input_thresh": "-28.57",
+        "output_i": "-17.05",
+        "output_tp": "-2.00",
+        "output_lra": "2.10",
+        "output_thresh": "-27.10",
+        "normalization_type": "dynamic",
+        "target_offset": "0.05"
+      }
+    },
+    {
+      "file": "jardim-comparacao.mp4",
+      "bytes": 12815478,
+      "sha256": "ace597cebc99f82bedb9147478d14d2a8fd145050779072ad749b38aac58c0fd",
+      "duration": 10.0,
+      "video": {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "pix_fmt": "yuvj420p",
+        "nb_frames": "300"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "duration": "10.000000"
+      },
+      "decode_errors": "",
+      "loudness": {
+        "input_i": "-18.24",
+        "input_tp": "-4.23",
+        "input_lra": "2.50",
+        "input_thresh": "-28.57",
+        "output_i": "-17.05",
+        "output_tp": "-2.00",
+        "output_lra": "1.90",
+        "output_thresh": "-27.10",
+        "normalization_type": "dynamic",
+        "target_offset": "0.05"
+      }
+    }
+  ],
+  "note": "Source and exported media copied from the reviewed final production. Paths are relative to this kit."
+}

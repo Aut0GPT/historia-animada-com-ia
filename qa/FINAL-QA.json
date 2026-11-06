@@ -1,0 +1,151 @@
+{
+  "files": [
+    {
+      "file": "jardim-25d.mp4",
+      "bytes": 68162371,
+      "sha256": "842b75768e4fa8ca074ea23dbf8e544c447abd67e3b14070f7cb7e9077e4a375",
+      "duration": 52.0,
+      "video": {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "pix_fmt": "yuvj420p",
+        "nb_frames": "1560"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "duration": "52.000000"
+      },
+      "decode_errors": "",
+      "loudness": {
+        "input_i": "-17.05",
+        "input_tp": "-2.26",
+        "input_lra": "5.20",
+        "input_thresh": "-27.22",
+        "output_i": "-17.13",
+        "output_tp": "-2.32",
+        "output_lra": "5.60",
+        "output_thresh": "-27.25",
+        "normalization_type": "dynamic",
+        "target_offset": "0.13"
+      }
+    },
+    {
+      "file": "jardim-papel.mp4",
+      "bytes": 1372766,
+      "sha256": "ca5ce1eb0d82846ca2d8a558a418219b0504b6ead28c8ff1884ad64a30ba16ec",
+      "duration": 10.0,
+      "video": {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "pix_fmt": "yuvj420p",
+        "nb_frames": "300"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "duration": "10.000000"
+      },
+      "decode_errors": "",
+      "loudness": {
+        "input_i": "-18.25",
+        "input_tp": "-4.26",
+        "input_lra": "2.50",
+        "input_thresh": "-28.57",
+        "output_i": "-17.05",
+        "output_tp": "-2.00",
+        "output_lra": "2.10",
+        "output_thresh": "-27.10",
+        "normalization_type": "dynamic",
+        "target_offset": "0.05"
+      }
+    },
+    {
+      "file": "jardim-pixel.mp4",
+      "bytes": 609064,
+      "sha256": "66476b8481142bb7e8f8605d370b37c5815db614218a396a79731e08b68fbf4c",
+      "duration": 10.0,
+      "video": {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "pix_fmt": "yuvj420p",
+        "nb_frames": "300"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "duration": "10.000000"
+      },
+      "decode_errors": "",
+      "loudness": {
+        "input_i": "-18.25",
+        "input_tp": "-4.26",
+        "input_lra": "2.50",
+        "input_thresh": "-28.57",
+        "output_i": "-17.05",
+        "output_tp": "-2.00",
+        "output_lra": "2.10",
+        "output_thresh": "-27.10",
+        "normalization_type": "dynamic",
+        "target_offset": "0.05"
+      }
+    },
+    {
+      "file": "jardim-comparacao.mp4",
+      "bytes": 12815478,
+      "sha256": "ace597cebc99f82bedb9147478d14d2a8fd145050779072ad749b38aac58c0fd",
+      "duration": 10.0,
+      "video": {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "pix_fmt": "yuvj420p",
+        "nb_frames": "300"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "duration": "10.000000"
+      },
+      "decode_errors": "",
+      "loudness": {
+        "input_i": "-18.24",
+        "input_tp": "-4.23",
+        "input_lra": "2.50",
+        "input_thresh": "-28.57",
+        "output_i": "-17.05",
+        "output_tp": "-2.00",
+        "output_lra": "1.90",
+        "output_thresh": "-27.10",
+        "normalization_type": "dynamic",
+        "target_offset": "0.05"
+      }
+    }
+  ],
+  "external_generation_cost": 0,
+  "technical_qa_complete": true,
+  "visual_review": "Final cap sprout corrected and reviewed. Crown anchor follows the drawn cap; 1482 prefix frames and78 replacement frames pixel-verified against their respective sources.",
+  "listening_review": "No claim of human audition.",
+  "crown_correction": {
+    "splice_frame": 1482,
+    "splice_seconds": 49.4,
+    "prefix_frames_identical": 1482,
+    "tail_frames_identical": 78,
+    "duration": 52,
+    "total_frames": 1560,
+    "sha256": "842b75768e4fa8ca074ea23dbf8e544c447abd67e3b14070f7cb7e9077e4a375",
+    "bytes": 68162371,
+    "prefix_reencoded": false
+  }
+}

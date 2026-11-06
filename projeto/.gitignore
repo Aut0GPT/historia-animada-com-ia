@@ -1,0 +1,8 @@
+node_modules/
+.venv/
+audio/
+qa/
+*.mp4
+*.render.json
+.env*
+!.env.example

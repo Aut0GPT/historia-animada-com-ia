@@ -1,0 +1,20 @@
+{
+  "episode": "03",
+  "status": "ready",
+  "public": false,
+  "promptStatus": "initial_prompt_sent_to_Claude_for_briefing_and_review; execution_in_Codex",
+  "animationConfirmed": true,
+  "runnableProjectIntegrated": true,
+  "videoId": null,
+  "audioLanguagesVerified": [],
+  "publishBlockers": [],
+  "promptEvidence": "capturas/prompts-enviados.json in production workspace",
+  "sourceIntegrated": true,
+  "sourceValidation": "npm ci and npm run check passed in the distributable project copy",
+  "packageReady": true,
+  "productionMethod": "Claude briefing/review, Codex implementation, deterministic Remotion/Three.js render; original locally synthesized score and SFX",
+  "websitePending": [
+    "Tutorial video ID, final duration and chapters, verified published audio languages"
+  ],
+  "technicalQA": "qa/FINAL-QA.json"
+}

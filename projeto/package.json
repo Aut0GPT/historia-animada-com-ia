@@ -1,0 +1,28 @@
+{
+  "name": "a-entrega-que-virou-jardim",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts --no-open --port 3323",
+    "render": "node scripts/render.mjs Jardim25D ../media/jardim-25d.mp4",
+    "check": "tsc --noEmit",
+    "render:paper": "node scripts/render.mjs JardimPapel ../media/jardim-papel.mp4",
+    "render:pixel": "node scripts/render.mjs JardimPixel ../media/jardim-pixel.mp4"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.8.2",
+    "@react-three/postprocessing": "3.0.4",
+    "@remotion/cli": "4.0.540",
+    "@remotion/three": "4.0.540",
+    "postprocessing": "6.39.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.540",
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "@types/three": "0.180.0",
+    "typescript": "5.9.3"
+  }
+}
