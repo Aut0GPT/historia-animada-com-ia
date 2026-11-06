@@ -1,5 +1,9 @@
 # The delivery that became a garden
 
+**Watch the tutorial:** [Create a new animated story with AI](https://youtu.be/gETGaHPne3c)
+
+**Prompts and guide:** [This episode’s page](https://www.luiz-amorim.com/en/prompts/new-animated-story-with-ai/)
+
 ![One story, three visual styles](assets/thumbnail-en.png)
 
 A 52-second animated short and two interpretations of the same scene, created with AI assistance and editable code. This follows **Entrega pelo ar**: Nico delivers a tiny seed and the square gains shade.

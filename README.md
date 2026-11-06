@@ -1,5 +1,9 @@
 # A entrega que virou jardim
 
+**Assista ao tutorial:** [Como criar uma nova história animada com IA](https://youtu.be/gETGaHPne3c)
+
+**Prompts e guia:** [Página deste episódio](https://www.luiz-amorim.com/pt/prompts/nova-historia-animada-com-ia/)
+
 ![A mesma história em três estilos](assets/thumbnail-pt.png)
 
 Um curta de 52 segundos e duas interpretações da mesma cena, produzidos com assistência de IA e código editável. Semi-continuação de **Entrega pelo ar**, com Nico, uma semente minúscula e uma praça que ganha sombra.
